@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#e42269"
     tools:context=".BlankFragment1">
 
     <LinearLayout
@@ -13,7 +14,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="Fragment_1"
+            android:text="Fragment_A"
             android:textColor="@color/black"
             android:textSize="50sp"
             android:textStyle="bold" />
